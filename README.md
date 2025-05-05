@@ -12,6 +12,6 @@ GOOGLE_PW：格式： 账号 密码
 
 APP_URL：app项目地址
 
-3.建议配置:0.5cpu 1G内存
+3.建议至少配置:0.5cpu ，1G内存以上
 
-建议使用GitHub的action
+建议使用GitHub的action，或者vps运行脚本
