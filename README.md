@@ -1,6 +1,6 @@
 # IDX
 
-#### 使用前提条件，nodejs项目hello world,打开项目要使脚本自动运行
+#### 使用前提条件，nodejs项目hello world,打开项目脚本要能自动运行
 
 #### 使用方法
 
