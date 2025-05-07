@@ -27,8 +27,8 @@ APP_URL：app项目地址
 3. 添加以下变量:
    - `WEB_URL`: 您的网站 URL
    - `COOK_URL`: Cookie 下载链接
-   - `GOOGLE_PW`: Google 密码
-   - `APP_URL`: 应用 URL
+   - `GOOGLE_PW`:google账号格式： 账号 密码
+   - `APP_URL`: 应用项目公开地址
 
 ## 步骤 2: 配置定时管道
 
